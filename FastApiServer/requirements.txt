@@ -1,0 +1,4 @@
+uvicorn==0.18.2
+fastapi==0.78.0
+starlette==0.19.1
+requests-async==0.6.2
